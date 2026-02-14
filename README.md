@@ -2,6 +2,8 @@
 
 ### A Permeability-Based Security Architecture for Autonomous AI Agents
 
+> **📦 This protocol is now part of [The Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) — a complete alignment and safety architecture for autonomous AI agents.** The Kit includes trust verification, epistemic hygiene, emergence protocols, defence tools, and more. Start there for the full picture.
+
 ---
 
 **The Problem:** Autonomous AI agents operate with broad system access but lack principled security architecture. Current approaches rely on either rigid access control (too restrictive) or implicit trust (too vulnerable). The result: prompt injection, data exfiltration, skill poisoning, and cascading agent compromise.
